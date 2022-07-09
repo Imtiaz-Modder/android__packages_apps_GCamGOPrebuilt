@@ -4,6 +4,9 @@ GCamGo is a stripped-down version of the Pixel’s elgoog Camera app, It is comm
 
 Add this line in your device.mk
 
+```
+git clone https://github.com/Imtiaz-Modder/android__packages_apps_GCamGOPrebuilt.git packages/apps/GCamGOPrebuilt
+```
 
 ```
 PRODUCT_PACKAGES += \
